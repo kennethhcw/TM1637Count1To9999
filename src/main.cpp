@@ -44,7 +44,7 @@ void loop()
   unsigned char d3 = 0;
   unsigned char d2 = 0;
   unsigned char d1 = 0;
-  unsigned char d0 = 0; 
+  unsigned char d0 = 0;
   delay(150);
   while(1)
   { 
